@@ -20,7 +20,7 @@ export default function Home() {
               src="/vercel.svg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
-              width={100}
+              width={120}
               height={24}
               priority
             />
@@ -49,7 +49,7 @@ export default function Home() {
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>Easy to learn to Next Js</p>
         </a>
 
         <a
@@ -86,7 +86,7 @@ export default function Home() {
             Deploy <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Its easy way to implenemt and easy to use and easy to learn ..
           </p>
         </a>
       </div>
